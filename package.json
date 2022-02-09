@@ -17,7 +17,6 @@
     "bitcore-lib": "8.1.1",
     "bitcore-mnemonic": "8.1.1",
     "core-js": "^3.4.3",
-    "crypto": "^1.0.1",
     "crypto-js": "^4.0.0",
     "elliptic": "6.4.1",
     "ethereumjs-util": "^7.0.4",
